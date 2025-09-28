@@ -25,7 +25,7 @@ Cada proyecto aborda distintos conceptos de validación, simulación, gráficos,
 
 ---
 
-## 🎯 Proyecto Final - Osciloscopio en C#
+## 🎯Osciloscopio en C#
 
 ### 🔐 Seguridad
 - Sistema de usuarios (archivo con **usuario, contraseña, rol**).  
