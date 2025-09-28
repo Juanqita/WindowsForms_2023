@@ -1,0 +1,3 @@
+Usuario, Contraseña, rol
+admin123, admin321, Administrador
+invitado, invitado, Invitado

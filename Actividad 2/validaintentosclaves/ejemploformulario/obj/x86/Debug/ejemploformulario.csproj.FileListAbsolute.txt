@@ -1,0 +1,22 @@
+C:\Users\juank\OneDrive\Documentos\Visual Studio 2010\Projects\Intersemestral-PTR\Clases\ejemploformulario\ejemploformulario\bin\Debug\ejemploformulario.exe
+C:\Users\juank\OneDrive\Documentos\Visual Studio 2010\Projects\Intersemestral-PTR\Clases\ejemploformulario\ejemploformulario\bin\Debug\ejemploformulario.pdb
+C:\Users\juank\OneDrive\Documentos\Visual Studio 2010\Projects\Intersemestral-PTR\Clases\ejemploformulario\ejemploformulario\obj\x86\Debug\ejemploformulario.Form1.resources
+C:\Users\juank\OneDrive\Documentos\Visual Studio 2010\Projects\Intersemestral-PTR\Clases\ejemploformulario\ejemploformulario\obj\x86\Debug\ejemploformulario.Properties.Resources.resources
+C:\Users\juank\OneDrive\Documentos\Visual Studio 2010\Projects\Intersemestral-PTR\Clases\ejemploformulario\ejemploformulario\obj\x86\Debug\ejemploformulario.csproj.GenerateResource.Cache
+C:\Users\juank\OneDrive\Documentos\Visual Studio 2010\Projects\Intersemestral-PTR\Clases\ejemploformulario\ejemploformulario\obj\x86\Debug\ejemploformulario.exe
+C:\Users\juank\OneDrive\Documentos\Visual Studio 2010\Projects\Intersemestral-PTR\Clases\ejemploformulario\ejemploformulario\obj\x86\Debug\ejemploformulario.pdb
+C:\Users\juank\OneDrive\Documentos\Visual Studio 2010\Projects\Intersemestral-PTR\Entrega 2\validaclaves\ejemploformulario\obj\x86\Debug\ejemploformulario.exe
+C:\Users\juank\OneDrive\Documentos\Visual Studio 2010\Projects\Intersemestral-PTR\Entrega 2\validaclaves\ejemploformulario\obj\x86\Debug\ejemploformulario.pdb
+C:\Users\juank\OneDrive\Documentos\Visual Studio 2010\Projects\Intersemestral-PTR\Entrega 2\validaclaves\ejemploformulario\bin\Debug\ejemploformulario.exe
+C:\Users\juank\OneDrive\Documentos\Visual Studio 2010\Projects\Intersemestral-PTR\Entrega 2\validaclaves\ejemploformulario\bin\Debug\ejemploformulario.pdb
+C:\Users\juank\OneDrive\Documentos\Visual Studio 2010\Projects\Intersemestral-PTR\Entrega 2\validaclaves\ejemploformulario\obj\x86\Debug\ejemploformulario.Form1.resources
+C:\Users\juank\OneDrive\Documentos\Visual Studio 2010\Projects\Intersemestral-PTR\Entrega 2\validaclaves\ejemploformulario\obj\x86\Debug\ejemploformulario.Properties.Resources.resources
+C:\Users\juank\OneDrive\Documentos\Visual Studio 2010\Projects\Intersemestral-PTR\Entrega 2\validaclaves\ejemploformulario\obj\x86\Debug\ejemploformulario.csproj.GenerateResource.Cache
+C:\Users\juank\OneDrive\Documentos\Visual Studio 2010\Projects\Intersemestral-PTR\Entrega 2\validaintentosclaves\ejemploformulario\obj\x86\Debug\ejemploformulario.exe
+C:\Users\juank\OneDrive\Documentos\Visual Studio 2010\Projects\Intersemestral-PTR\Entrega 2\validaintentosclaves\ejemploformulario\obj\x86\Debug\ejemploformulario.pdb
+C:\Users\juank\OneDrive\Documentos\Visual Studio 2010\Projects\Intersemestral-PTR\Entrega 2\validaintentosclaves\ejemploformulario\bin\Debug\ejemploformulario.exe
+C:\Users\juank\OneDrive\Documentos\Visual Studio 2010\Projects\Intersemestral-PTR\Entrega 2\validaintentosclaves\ejemploformulario\bin\Debug\ejemploformulario.pdb
+C:\Users\juank\OneDrive\Documentos\Visual Studio 2010\Projects\Intersemestral-PTR\Entrega 2\validaintentosclaves\ejemploformulario\obj\x86\Debug\ejemploformulario.Form1.resources
+C:\Users\juank\OneDrive\Documentos\Visual Studio 2010\Projects\Intersemestral-PTR\Entrega 2\validaintentosclaves\ejemploformulario\obj\x86\Debug\ejemploformulario.Properties.Resources.resources
+C:\Users\juank\OneDrive\Documentos\Visual Studio 2010\Projects\Intersemestral-PTR\Entrega 2\validaintentosclaves\ejemploformulario\obj\x86\Debug\ejemploformulario.csproj.GenerateResource.Cache
+C:\Users\juank\OneDrive\Documentos\Visual Studio 2010\Projects\Intersemestral-PTR\Entrega 2\validaintentosclaves\ejemploformulario\obj\x86\Debug\ejemploformulario.csprojResolveAssemblyReference.cache
